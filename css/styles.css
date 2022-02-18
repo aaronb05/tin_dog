@@ -1,0 +1,177 @@
+body {
+    font-family: "Montserrat";
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+
+#title{
+    background-color: #B76E79;
+}
+
+.container-fluid{
+    padding: 3% 10%
+}
+
+.navbar {
+    padding: 0 0 5rem;
+}
+
+.page_header{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+    color: white;
+}
+
+.header-photo {
+    width: 40%;
+    transform: rotate(45deg);
+    position: relative;
+    padding-left: 45px;
+    z-index: 0;
+    right: auto;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.nav-item {
+    padding: 0 15px;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0
+}
+
+#feature {
+    padding: 5% 15% 15% 5%l;
+    z-index: 1;
+    background-color: #fff;
+}
+
+.f-box {
+    text-align: center;
+    padding: 5%
+}
+
+.feature-icon {
+    color: #B76E79;
+    padding: 0 0 10% 0;
+}
+
+.feature-icon:hover {
+    color: #000
+}
+
+.feature-heading {
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+
+#testimonials {
+    background-color: #B76E79;
+}
+
+.testimonial-slide {
+    padding: 2% 5% 5% 0
+}
+
+.testimonial-text {
+    text-align: center;
+    color: #fff;
+}
+
+.testimonial-image{
+    border-radius: 50%;
+    width: 70%;
+}
+
+.location {
+    color: white;
+}
+
+#press {
+    background-color: #B76E79;
+}
+
+.press-img {
+    width: 90%;
+    padding: 0 5% 5% 0
+}
+
+.carousel {
+    margin: auto
+    width: 65%;
+}
+
+.pricing {
+    justify-content: center;
+}
+
+.pricing-title {
+    text-align: center
+}
+
+.card-prices {
+    margin:auto;
+}
+
+.pricing-card {
+    margin:2% 2% 2% 2%
+}
+
+.price-card-header {
+    background: transparent;
+    padding-top: 20px;
+}
+
+.pricing-header{
+    font-size: 2.5rem;
+    padding-bottom: 15px;
+}
+
+.card-body {
+    text-align: center;
+    padding: 10
+}
+
+.btn-price {
+    background-color: #B76E79;
+    color: #fff
+}
+
+.card-footer {
+    background: transparent
+}
+
+#cta {
+      background-color: #B76E79;
+      text-align: Center;
+      padding: 8% 8% 8% 8%
+}
+
+.cta-header {
+    font-size: 2rem;
+    font-weight: 900;
+    color: #fff;
+}
+
+footer {
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    background-color: #fff;
+    padding-top: 35px;
+}
+
+.footer-icon {
+    padding: 10px 10px 10px 10px
+}
+
+
